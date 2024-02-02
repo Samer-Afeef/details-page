@@ -1,8 +1,11 @@
-# easy_testing
+# Details page
 
-Solve the test
+Solve the tes
+
+![Petails page](details.png)
 
 ## Getting Started
 
-Figma https://www.figma.com/file/sNTOCHS2MR1Va6P85TK8Z1/Test?type=design&node-id=0%3A1&mode=design&t=9cREUd71UUeodJek-1
+# Figma
+ https://www.figma.com/file/sNTOCHS2MR1Va6P85TK8Z1/Test?type=design&node-id=0%3A1&mode=design&t=9cREUd71UUeodJek-1
 
