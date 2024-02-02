@@ -2,7 +2,7 @@
 
 Test sulation
 
-![Petails page](details.png)
+![details page](details.png)
 
 ## Getting Started
 
