@@ -1,6 +1,6 @@
 # Details page
 
-Solve the tes
+Test sulation
 
 ![Petails page](details.png)
 
